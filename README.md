@@ -32,7 +32,8 @@ Receive AI-generated health recommendations based on severity.
 
 Use the location-based search feature to find medical offices near you.
 
-#Demo:
+# Demo:
+
 
 
 https://github.com/user-attachments/assets/0e7b13b0-7db0-46ee-bda3-77d9c8f338d9
